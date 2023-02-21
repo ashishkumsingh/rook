@@ -4,9 +4,9 @@ go 1.19
 
 require (
 	github.com/IBM/keyprotect-go-client v0.9.2
-	github.com/aws/aws-sdk-go v1.44.157
+	github.com/aws/aws-sdk-go v1.44.192
 	github.com/banzaicloud/k8s-objectmatcher v1.8.0
-	github.com/ceph/go-ceph v0.18.0
+	github.com/ceph/go-ceph v0.20.0
 	github.com/coreos/pkg v0.0.0-20220810130054-c7d1c02cb6cf
 	github.com/gemalto/kmip-go v0.0.8
 	github.com/go-ini/ini v1.67.0
